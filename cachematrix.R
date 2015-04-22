@@ -1,3 +1,7 @@
+##Attributions: The logic and structure for these functions
+##are heavily based on the makeVector() and cacheMean()
+##functions provided for us by RDPeng.
+
 
 ##These two functions allow for the creation of a matrix
 ##such that the inverse is solved once and stored, with
